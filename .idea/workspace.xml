@@ -31,7 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f164145a-61b6-4f1f-b410-b2bc2a559849" name="Default Changelist" comment="으아아아아아아아">
-      <change afterPath="$PROJECT_DIR$/merkle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merkle.py" beforeDir="false" afterPath="$PROJECT_DIR$/merkle.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

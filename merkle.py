@@ -48,6 +48,7 @@ if len(importedTx) > 0:
                         secondToner = random.sample(strTxData, numToner)
                         filter(lambda a: a != secondToner, strTxData)
                             secondTonerAdd = random.sample(strTxData, 1)
+                        #추가필요
 
 
 
